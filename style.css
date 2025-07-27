@@ -257,3 +257,57 @@ main {
 }
 
 /* Features section end */
+
+/* Some Facts section start */
+.some-facts-section {
+    text-align: center;
+}
+
+.some-facts-section-1 {
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.some-facts-section-1 h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #a60c69;
+    line-height: 80%;
+}
+
+.some-facts-section-1 p {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #5c0e3d;
+}
+
+.some-facts-section-2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.some-facts-section-2 div {
+    border: 1px solid rgb(254, 150, 132);
+    border-radius: 10px;
+    padding: 1.5rem;
+}
+
+.some-facts-section-2 div h2 {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #5c0e3d;
+    line-height: 60%;
+}
+
+.some-facts-section-2 div p {
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #3c4087;
+}
+
+.some-facts-section-2 div img {
+    height: 50px;
+    width: 50px;
+}
+
+/* Some Facts section end */
