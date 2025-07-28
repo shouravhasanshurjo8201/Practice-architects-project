@@ -95,15 +95,15 @@ header {
 
 /* header section end */
 
-/* main section stsrt */
+/* main section start */
 main {
     max-width: 1300px;
     margin: 20px auto;
     background-color: rgb(252, 254, 255);
 }
 
-/* our eatures section start  */
-.our-eatures-section {
+/* our Features section start  */
+.our-Features-section {
     display: flex;
     justify-content: space-between;
     gap: 5rem;
@@ -112,48 +112,48 @@ main {
     padding: 20px;
 }
 
-.our-eatures-section-1 {
+.our-Features-section-1 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
 }
 
-.our-eatures-section-1 div {
+.our-Features-section-1 div {
     width: 300px;
     height: 300px;
 }
 
-.our-eatures-section-1 div img {
+.our-Features-section-1 div img {
     width: 100%;
     height: 100%;
     border: 0.5px solid yellowgreen;
     border-radius: 10px;
 }
 
-.our-eatures-section-2 h1 .span-1 {
+.our-Features-section-2 h1 .span-1 {
     font-size: 50px;
     font-weight: 300;
     color: #b90505;
 }
 
-.our-eatures-section-2 h1 .span-2 {
+.our-Features-section-2 h1 .span-2 {
     font-size: 50px;
     font-weight: 500;
     color: #3a07d0;
 }
 
-.our-eatures-section-2 h1 .span-3 {
+.our-Features-section-2 h1 .span-3 {
     font-size: 50px;
     font-weight: 600;
     color: #e645c6;
 }
 
-.our-eatures-section-2 p {
+.our-Features-section-2 p {
     font-size: 18px;
     color: #71666f;
 }
 
-.our-eatures-section-2 button {
+.our-Features-section-2 button {
     color: #ffff;
     background-color: #FF900E;
     border: none;
@@ -164,12 +164,12 @@ main {
     margin-top: 20px;
 }
 
-.our-eatures-section-2 button:hover {
+.our-Features-section-2 button:hover {
     color: #815d03;
     background-color: #fc2feb;
 }
 
-/* our eatures section end  */
+/* our Features section end  */
 
 
 /* Features section start */
@@ -313,30 +313,30 @@ main {
 /* Some Facts section end */
 
 
-/* Sponspors section start */
-.Sponspors {
+/* Sponsors section start */
+.Sponsors {
     text-align: center;
     margin: 2rem;
 }
 
-.Sponspors-1 {
+.Sponsors-1 {
     padding: 2rem;
 }
 
-.Sponspors-1 h1 {
+.Sponsors-1 h1 {
     font-size: 3rem;
     font-weight: 800;
     color: #94037f;
     line-height: 80%;
 }
 
-.Sponspors-1 p {
+.Sponsors-1 p {
     font-size: 1rem;
     font-weight: 500;
     color: #6e0ae8;
 }
 
-.Sponspors-2 {
+.Sponsors-2 {
     display: flex;
     justify-content: space-between;
     margin: 1rem;
@@ -344,17 +344,17 @@ main {
     gap: 2rem;
 }
 
-.Sponspors-2 div {
+.Sponsors-2 div {
     height: 4rem;
     width: 9rem;
 }
 
-.Sponspors-2 div img {
+.Sponsors-2 div img {
     height: 100%;
     width: 100%;
 }
 
-/* Sponspors section end */
+/* Sponsors section end */
 /* main section end */
 
 
@@ -423,46 +423,46 @@ footer p {
 
     /* header section end */
 
-    /* main section stsrt */
+    /* main section start */
     main {
         max-width: 500px;
         margin: 1rem auto;
     }
 
-    /* our eatures section start  */
-    .our-eatures-section {
+    /* our Features section start  */
+    .our-Features-section {
         flex-direction: column;
         text-align: center;
     }
 
-    .our-eatures-section-1 div {
+    .our-Features-section-1 div {
         width: 150px;
         height: 150px;
     }
 
-    .our-eatures-section-2 h1 .span-1 {
+    .our-Features-section-2 h1 .span-1 {
         font-size: 2rem;
     }
 
-    .our-eatures-section-2 h1 .span-2 {
+    .our-Features-section-2 h1 .span-2 {
         font-size: 2rem;
 
     }
 
-    .our-eatures-section-2 h1 .span-3 {
+    .our-Features-section-2 h1 .span-3 {
         font-size: 2rem;
     }
 
-    .our-eatures-section-2 p {
+    .our-Features-section-2 p {
         font-size: 1rem;
     }
 
-    .our-eatures-section-2 button {
+    .our-Features-section-2 button {
         padding: 1rem 2rem;
         font-size: 1rem;
     }
 
-    /* our eatures section end  */
+    /* our Features section end  */
 
     /* Features section start */
     .Features {
@@ -514,18 +514,18 @@ footer p {
 
     /* Some Facts section end */
 
-    /* Sponspors section start */
+    /* Sponsors section start */
 
-    .Sponspors-1 h1 {
+    .Sponsors-1 h1 {
         font-size: 2rem;
     }
 
-    .Sponspors-2 {
+    .Sponsors-2 {
         flex-direction: column;
         gap: 3rem;
     }
 
-    /* Sponspors section end */
+    /* Sponsors section end */
 
     /* main section end */
 
@@ -588,46 +588,46 @@ footer p {
 
     /* header section end */
 
-    /* main section stsrt */
+    /* main section start */
     main {
         max-width: 900px;
         margin: 1rem auto;
     }
 
-    /* our eatures section start  */
-    .our-eatures-section {
+    /* our Features section start  */
+    .our-Features-section {
         flex-direction: column;
         text-align: center;
     }
 
-    .our-eatures-section-1 div {
+    .our-Features-section-1 div {
         width: 220px;
         height: 220px;
     }
 
-    .our-eatures-section-2 h1 .span-1 {
+    .our-Features-section-2 h1 .span-1 {
         font-size: 2.3rem;
     }
 
-    .our-eatures-section-2 h1 .span-2 {
+    .our-Features-section-2 h1 .span-2 {
         font-size: 2.3rem;
 
     }
 
-    .our-eatures-section-2 h1 .span-3 {
+    .our-Features-section-2 h1 .span-3 {
         font-size: 2.3rem;
     }
 
-    .our-eatures-section-2 p {
+    .our-Features-section-2 p {
         font-size: 1.5rem;
     }
 
-    .our-eatures-section-2 button {
+    .our-Features-section-2 button {
         padding: 1rem 2rem;
         font-size: 1rem;
     }
 
-    /* our eatures section end  */
+    /* our Features section end  */
 
     /* Features section start */
     .Features {
@@ -676,21 +676,21 @@ footer p {
 
     /* Some Facts section end */
 
-    /* Sponspors section start */
-    .Sponspors-1 h1 {
+    /* Sponsors section start */
+    .Sponsors-1 h1 {
         font-size: 2.5rem;
     }
 
-    .Sponspors-2 {
+    .Sponsors-2 {
         gap: 2.5rem;
     }
 
-    .Sponspors-2 div {
+    .Sponsors-2 div {
         height: 3rem;
         width: 7rem;
     }
 
-    /* Sponspors section end */
+    /* Sponsors section end */
 
     /* main section end */
 
